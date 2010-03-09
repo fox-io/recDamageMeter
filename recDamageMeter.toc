@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: recDamageMeter
+## Notes: Minimalistic Damage Meter
+## Author: Recluse
+## Dependencies: recPanels, recMedia
+## Version: $Id: recDamageMeter.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+
+default_settings.lua
+user_settings.lua
+core.lua
